@@ -69,4 +69,18 @@
 </body>
 <script src="index.js"></script>
 </html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+</head>
+<body>
+    <img src="images/help.jpg" class = "a">
+    <span class = "index3title">Обратная связь</span>
+    <span class = 'help2'>По вопросам работы сайта и техподдержки обращайтесь на почту pkhlunev@gmail.com</span>
+</body>
+</html>
