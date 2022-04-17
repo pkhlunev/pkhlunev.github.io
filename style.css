@@ -1,5 +1,6 @@
 
-
+@media only screen and (orientation: landscape){
+   
 
 h1{
     position: absolute;
@@ -321,6 +322,4 @@ height: auto;
     top: 50px;
     left: 0px
 }
-
-@media (max-width: 700px){
 }
