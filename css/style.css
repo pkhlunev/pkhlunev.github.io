@@ -1,1 +1,331 @@
+@media(max-width: 1920px){
 
+
+h1{
+    position: absolute;
+    width: 507px;
+    height: 50px;
+    left: 534px;
+    top: 32px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color : #000001
+}
+
+.whycountwords{
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    left: 250px;
+    top: 150px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.countitwords{
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    left: 500px;
+    top: 150px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.helpme{
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    left: 875px;
+    top: 150px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.index3text{
+    position: absolute;
+    width: 1450px;
+    height: 229px;
+    left: 16px;
+    top: 150px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.enterheight{
+width: 400px;
+position: absolute;
+height: 25px;
+left: 16px;
+top: 250px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+.enterwidth{
+    width: 400px;
+    position: absolute;
+    height: 25px;
+    left: 500px;
+    top: 250px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+}
+.entertop{
+    width: 400px;
+    position: absolute;
+    height: 25px;
+    left: 1000px;
+    top: 250px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+}
+.enterrulonwidth{
+    width: 400px;
+    position: absolute;
+    height: 25px;
+    left: 16px;
+    top: 300px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+}
+.enterrulonheight{
+    width: 400px;
+    position: absolute;
+    height: 25px;
+    left: 500px;
+    top: 300px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+
+}
+.countitnow{
+    position: absolute;
+    width: 400px;
+    height: 25px;
+    left: 1000px;
+    top: 305px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.index3title{
+    position: absolute;
+    width: 600px;
+    height: 55px;
+    left: 500px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 42px;
+    text-align: center;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.index3attention{
+    position: absolute;
+    width: 1028px;
+    height: 30px;
+    left: 250px;
+    top: 72px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+color: blue;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.index3attentionbold{
+    position: absolute;
+    width: 1028px;
+    height: 30px;
+    left: -290px;
+    top: 72px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-style: bold;
+color: blue;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+img.a{
+        min-height: 100%;
+        min-width: 640px;
+        width: 100%;
+        height: auto;
+        position: fixed;
+        top: 0;
+        left:0;
+}
+.perimetr{
+    position: absolute;
+    width: 1028px;
+    height: 30px;
+    left: -150px;
+    top: 375px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ploshad{
+    position: absolute;
+    width: 1028px;
+    height: 30px;
+    left: 450px;
+    top: 375px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ploshadrulona{
+    position: absolute;
+    width: 1028px;
+    height: 30px;
+    left: -150px;
+    top: 475px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 30px;
+    text-align: center;
+color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.youneedrulons{
+    position: absolute;
+    width: 1028px;
+    height: 30px;
+    left: 450px;
+    top: 475px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.maybeyouwonder{
+position: absolute;
+font-size: 30px;
+top: 50px;
+left: 0px
+}
+.afterfirst{
+    position: absolute;
+    font-size: 30px;
+    top: 200px;
+    left: 0px
+}
+.almostlast{
+    position: absolute;
+    font-size: 30px;
+    top: 350px;
+    left: 0px;
+    color: black
+}
+.last{
+    position: absolute;
+    font-size: 30px;
+    top: 475px;
+    left: 0px
+}
+.help2{
+    position: absolute;
+    font-size: 30px;
+    top: 50px;
+    left: 0px
+}
+}
